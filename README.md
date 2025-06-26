@@ -1,3 +1,3 @@
 # CellphoneJAVA
 
-![Diagrama UML do projeto Cellphone](./uml-diagrama.png)
+![Diagrama UML do projeto Cellphone](img/uml.png)
